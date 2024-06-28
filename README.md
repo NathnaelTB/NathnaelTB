@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I am a software engineer student in Bahir Dar University<br>I am currently working on Web development
+<br>I am a software engineering student in Bahir Dar University<br>I am currently working on Web development
 
 
 ## 🌐 Socials:
